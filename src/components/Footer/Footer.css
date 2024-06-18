@@ -9,9 +9,10 @@
     flex-direction: row;
     justify-content: space-evenly;
     padding: 20px;
-
  }
- 
+ .footer-img{
+    padding-top: 80px;
+ }
  .quick-links {
     height: 230px;
     width: 150px;

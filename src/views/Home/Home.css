@@ -4,6 +4,7 @@
     padding: 5px;
     text-align: center;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: -10px;
 }
 .site-description{
     font-size: 25px;
@@ -12,4 +13,5 @@
 .features{
     display: flex;
     justify-content: space-around;
+    margin-bottom: 20px;
 }

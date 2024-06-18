@@ -11,7 +11,7 @@ function Footer({}) {
     <div className="footer">
         <div className="footer-desc">
             <div className="footer-img">
-            <p className="site-title" style={{color:theme.text, backgroundColor:theme.primaryColor}}>{siteDetails.title}</p>
+                <p className="site-title" style={{color:theme.text, backgroundColor:theme.primaryColor}}>{siteDetails.title}</p>
             </div>
 
             <div className="quick-links">
@@ -43,8 +43,8 @@ function Footer({}) {
                     <img src={google} className='footer-icon' />
                 </div>
             </div>
-            </div>
-            </div>
+        </div>
+    </div>
             
 
         </>  )
